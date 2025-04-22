@@ -1,4 +1,4 @@
-# Movie Recommendation System using Hybrid Filtering
+# Movie Recommendation System 
 
 ## 📌 Overview
 This project implements a movie recommendation engine using a hybrid approach that combines collaborative and content-based filtering. The goal is to predict whether a user would enjoy a movie based on their past interactions and the metadata of the movies.
