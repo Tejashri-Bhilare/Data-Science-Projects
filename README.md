@@ -1,6 +1,6 @@
 # 📊 Tejashri Bhilare – Data Science Projects
 
-Welcome! This repository showcases my completed data science projects developed as part of my MS in Data Science program at Bellevue University and independent research. These projects highlight my skills in machine learning, natural language processing, forecasting, and data storytelling.
+Welcome! This repository showcases my completed data science projects developed as part of my MS in Data Science program at Bellevue University and independent research. These projects highlight my skills in machine learning, natural language processing, forecasting, and data storytelling. 
 
 🔗 **Portfolio Website**: [https://tejashri-bhilare.github.io](https://tejashri-bhilare.github.io)
 
