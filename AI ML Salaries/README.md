@@ -28,7 +28,4 @@ This project explores salary trends in Artificial Intelligence and Machine Learn
 - Add regression models for salary prediction
 - Explore interactive dashboards with Streamlit or Plotly
 
-## 📃 License
-MIT License
-
 
