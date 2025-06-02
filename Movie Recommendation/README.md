@@ -1,6 +1,5 @@
 # Movie Recommendation System
 
-![Alt Text](https://example.com/image.png)
 
 ## 🎯 Overview
 This project implements a movie recommendation system using collaborative filtering techniques. By analyzing user-item interactions, the system suggests movies that a user might enjoy based on their preferences and the preferences of similar users.
